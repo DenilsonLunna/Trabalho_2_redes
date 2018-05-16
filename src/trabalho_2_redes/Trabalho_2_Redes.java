@@ -16,7 +16,7 @@ public class Trabalho_2_Redes {
      */
     public static void main(String[] args) {
         System.out.println("Testando Github");    
-        //Alterado da Web
+        
     }
     
 }
